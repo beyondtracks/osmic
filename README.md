@@ -1,3 +1,9 @@
+# BeyondTracks Icons
+
+This is a fork of [Osmic](https://github.com/gmgeo/osmic), adding more icons. Below is the original README from Osmic.
+
+Extra icons also CC0, sourced from [Maki](https://github.com/mapbox/maki), [NPS Collection from Edward Boatman](https://thenounproject.com/edward/collection/national-park-service/). [Yuko Iwai](https://thenounproject.com/term/hot-springs/5557/), [Font Awesome by Dave Gandy](http://fontawesome.io) via https://github.com/encharm/Font-Awesome-SVG-PNG,
+
 # Osmic (OSM Icons)
 
 A collection of 150+ clean high quality SVG map icons licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/) (Public Domain) and also available as [icon font](https://github.com/gmgeo/osmic/tree/master/font), which is licensed under [SIL OFL](http://scripts.sil.org/OFL). Below you see a possible preview (these are 2x the [original size](https://github.com/gmgeo/osmic/raw/master/icons.png)).

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg2"
+   viewBox="0 0 14 14"
+   height="100%"
+   width="100%"
+   version="1.1">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <rect
+     style="fill:none;stroke:none;visibility:hidden"
+     id="canvas"
+     y="0"
+     x="0"
+     height="14"
+     width="14" />
+  <path
+     d="m 0.425332,-9e-7 0.0038,13.3098439 c 0,0.36848 0.29802,0.66664 0.66664,0.66664 l 9.099454,-0.0079 L 9.450382,11.314325 7.650617,9.138583 2.589288,3.0226061 1.49171,0.3254191 Z m 6.017813,0.05086 -0.956485,0.442969 0.442969,0.960586 0.960586,-0.446797 z m -2.520821,1.681914 -0.537031,1.584024 1.587852,0.53293 0.533203,-1.58375 z m 4.492852,0.925313 -2.897071,0.27043 0.207813,1.611367 L 6.57248,5.665078 8.658262,5.418164 Z M 6.721777,5.853203 6.298223,6.170664 v 0.83918 H 6.905801 L 7.344941,6.680625 Z M 10.367793,6.272656 9.783457,6.37875 9.093574,7.519531 v 0.02734 l 1.007344,0.61168 0.584336,-0.105821 0.689883,-1.141054 v -0.02734 z m -0.846836,2.697461 -0.188398,1.019375 0.494101,0.956485 1.325078,0.188125 0.239258,-1.913243 z m 3.077539,3.179258 -0.674297,0.678398 V 14 h 1.650469 v -1.105508 z"
+     id="falling-rocks"
+     style="fill:#000000;fill-opacity:1;stroke-width:0.14" />
+</svg>
